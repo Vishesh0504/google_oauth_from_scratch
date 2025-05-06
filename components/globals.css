@@ -36,18 +36,18 @@ body {
   }
   .dark {
     --background: 8 4 18;
-    --foreground: 225 216 253;
+    --text: 223 215 247;
     --card: 12 12 12;
     --card-foreground: 249 249 249;
     --popover: 9 9 9;
     --popover-foreground: 249 249 249;
     --primary: 161 143 233;
     --primary-foreground: 4 1 14;
-    --secondary: 12 9 23;
+    --secondary: 138 57 28;
     --secondary-foreground: 249 249 249;
     --muted: 37 37 37;
     --muted-foreground: 119 119 119;
-    --accent: 241 41 150;
+    --accent: 220 199 81;
     --accent-foreground: 249 249 249;
     --destructive: 117 26 26;
     --destructive-foreground: 249 249 249;
